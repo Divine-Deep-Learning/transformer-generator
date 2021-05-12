@@ -6,11 +6,11 @@ We aim at showing that the usage of Transformer language model can be employed i
 
 SEED   
 1 |Ver|gi|ne |Ma|dre, |fi|glia |del |tuo |fi|glio,    
-2 |u|mi|le e |al|ta |pi`u |che |cre|a|tu|ra,  
+2 |u|mi|le e |al|ta |pi'u |che |cre|a|tu|ra,  
 3 |ter|mi|ne |fis|so |d’ et|ter|no |con|si|glio,  
-4 |tu |se’ |co|lei |che |l’ u|ma|na |na|tu|ra  
-5 |no|bi|li|ta|sti |s`ı, |che ’l |suo |fat|to|re  
-6 |non |di|sdeg|n`o |di |far|si |sua |fat|tu|ra.   
+4 |tu |se’ |co|lei |che |l' u|ma|na |na|tu|ra  
+5 |no|bi|li|ta|sti |s'ı, |che 'l |suo |fat|to|re  
+6 |non |di|sdeg|n'o |di |far|si |sua |fat|tu|ra.   
 
 GENERATION  
 |que|sto |cie|lo |non<c> |ha |al|tro |ver |spe|so  
