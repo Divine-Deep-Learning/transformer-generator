@@ -5,14 +5,17 @@ We aim at showing that the usage of Transformer language model can be employed i
 # Demo of generated text  
 
 SEED   
-  1 |Ver|gi|ne |Ma|dre, |fi|glia |del |tuo |fi|glio,    
-  2 |u|mi|le e |al|ta |pi'ù |che |cre|a|tu|ra,  
-  3 |ter|mi|ne |fis|so |d’ et|ter|no |con|si|glio,  
-  4 |tu |se’ |co|lei |che |l' u|ma|na |na|tu|ra  
-  5 |no|bi|li|ta|sti |sì, |che 'l |suo |fat|to|re  
-  6 |non |di|sdeg|nò |di |far|si |sua |fat|tu|ra.   
+```
+  1 Vergine Madre, figlia del tuo figlio,    
+  2 umile e alta più che creatura,  
+  3 termine fisso d’ etterno consiglio,  
+  4 tu se’ colei che l' umana natura  
+  5 nobilitasti sì, che 'l suo fattore  
+  6 non disdegnò di farsi sua fattura.
+```
 
 GENERATION  
+```
   |que|sto |cie|lo |non<c> |ha |al|tro |ver |spe|so  
   |che |fa |dal |mez|zo<c> |non |so |ma |pa|ü|ra  
   |del |sol |più |vol|le |non<c> |per|do|na |guer|ra  
@@ -28,3 +31,5 @@ GENERATION
   |a |te |mio |tan|to |so<c> |non |è |uo|mo |dio  
   |fu |già |tal |quan|do |ché<c> |po|ca |fa |gio|ia  
   |tuo |sol |per |sé<c> |la |mia |no|stra |men|zo|gna  
+```
+
