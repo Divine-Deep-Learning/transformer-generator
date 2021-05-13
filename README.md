@@ -33,6 +33,8 @@ GENERATION
   |tuo |sol |per |sé<c> |la |mia |no|stra |men|zo|gna  
 ```
 
+## Embedding Space Projection
+
 <p align='center'>
   <img src="resources/embedding.gif" width="80%"/>
 </p>
