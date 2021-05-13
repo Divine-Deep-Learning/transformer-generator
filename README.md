@@ -22,9 +22,9 @@ GENERATION
 
   |di |ra|gio|na|re an|cor<c> |vo' |mi |tuoi |pen|sa   
   |de |lo |pas|so<c> |de |vol|ger |ch' un |ghie |smor|to   
-  |vi|di |lor<c> |a |es|ser |vol|ta |ra|mi|glia|a   
+  |vi|di |lor<c> |a |es|ser |vol|ta |ra|mi|glia    
 
-  |la |bat|ta|glia |le<c> |su|stan|ze |prie|ri  
+  |a |la |bat|ta|glia |le<c> |su|stan|ze |prie|ri  
   |che |non |ci |va<c> |per |un |mo|do |dif|fu|so  
   |a|mor |te|men|te<c> |dis|se |la |pro|pri|a  
 
