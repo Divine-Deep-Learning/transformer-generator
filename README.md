@@ -1,4 +1,4 @@
-# transformer-generator-notebook
+# transformer-generator
 
 ![](resources/logo_large.png "Logo")
 
