@@ -1,4 +1,4 @@
-# transformer-generator
+# Transformer Generator
 
 ![](resources/logo_large.png "Logo")
 
